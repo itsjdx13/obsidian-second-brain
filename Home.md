@@ -50,3 +50,6 @@ These are starting points from existing notes, not a verified priority order or 
 - [[03 Knowledge/Methods/Evidence, Interpretation and Decisions]]
 - [[90 System/Consolidation Record]]
 - [[90 System/Codex Operator]]
+
+## New projects
+- [[01 Projects/CMA Training Research/CMA Training Research|CMA Training Research]] — بررسی دوره‌های MLRO و Compliance؛ دامنه: CMA / SCA Category 5، امارات.

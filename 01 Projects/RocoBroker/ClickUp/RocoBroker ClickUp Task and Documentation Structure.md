@@ -11,7 +11,7 @@ status: proposed
 area:
   - operations
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-18
 source: "https://chatgpt.com/share/6aaa44dd-86f0-83ed-95a5-21ed06196448"
 ---
 
@@ -295,3 +295,6 @@ No ClickUp migration or permission changes have been performed by adding this no
 - [[02 Areas/RocoBroker/Work Logs/2026/September/work report]] — includes ClickUp structure, task-entry, workspace-review, and team-guide action items.
 - [[02 Areas/RocoBroker/Operations/meet by sjd]] — records ClickUp task-management use and HR/BD responsibilities.
 - [[90 System/Codex Operator]] — operating contract for Obsidian as the primary knowledge base.
+- [[01 Projects/RocoBroker/ClickUp/ClickUp Tips and Future Ideas]] — collected tips, cross-Workspace ideas, and feedback references for future brainstorming.
+
+- [[01 Projects/RocoBroker/ClickUp/ClickUp MCP Server Reference]] — official server documentation, authentication, rate limits, and tool availability caveats.
