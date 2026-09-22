@@ -20,6 +20,7 @@ tags: [cma, training, research]
 ## مسیر پروژه
 - [[01 Projects/CMA Training Research/Research Brief|شرح و سؤال‌های تحقیق]]
 - [[01 Projects/CMA Training Research/Course Comparison|مقایسهٔ دوره‌ها]]
+- [[01 Projects/CMA Training Research/CMA Training - Seven Questions|پاسخ ساده به هفت سؤال دربارهٔ دوره‌ها]]
 - [[01 Projects/CMA Training Research/Evidence Register|منابع و تأیید رگولاتوری]]
 - [[01 Projects/CMA Training Research/Outreach and Negotiation|استعلام و مذاکره]]
 - [[01 Projects/CMA Training Research/Decision Log|تصمیم‌ها و انتخاب نهایی]]
@@ -56,3 +57,6 @@ tags: [cma, training, research]
 خروجی مناسب مرحلهٔ فعلی برای لید تیم: مقایسهٔ مستند گزینه‌ها، شرایط ورود و مسیر آزمون/تأیید، هزینهٔ هر نفر و شرایط تخفیف گروهی بدون تعهد تعداد، همراه با ابهام‌ها و اطلاعات لازم برای تصمیم بعدی.
 
 اطلاعاتی که بعداً از لید تیم لازم می‌شوند: نام حقوقی متقاضی و فعالیت دقیق Category 5، تاریخ هدف، بودجه، شیوه و زبان آموزش، تعداد و نامزدهای نقش‌ها. این موارد سؤال‌های باز هستند و اکنون شرط شروع تحقیق نیستند.
+
+## پاسخ خلاصهٔ دوره‌ها — 2026-09-22
+پاسخ سادهٔ هفت سؤال، تاریخ و محل نمونه‌دوره‌ها، تفکیک شهریه از هزینهٔ آزمون و جدول هزینهٔ CMA در [[01 Projects/CMA Training Research/CMA Training - Seven Questions|این یادداشت]] ثبت شد. تأیید CMA برای دوره‌های مؤسسات دیگر به‌عنوان جایگزین آزمون یا تأیید سمت احراز نشده است؛ وضعیت اصلاحیه‌های ۲۰۲۶ نیز باز مانده است.
